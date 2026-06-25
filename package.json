@@ -10,8 +10,7 @@
   "dependencies": {
     "plotly.js": "^3.6.0",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7",
-    "react-plotly.js": "^2.6.0"
+    "react-dom": "^19.2.7"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20260624.1",
