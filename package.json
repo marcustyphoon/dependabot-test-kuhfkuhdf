@@ -8,6 +8,6 @@
     "yarn": "please-use-pnpm"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20260624.1"
+    "@cloudflare/workers-types": "^4.20260625.1"
   }
 }
